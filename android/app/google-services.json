@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976167411925",
+    "project_id": "ubixstar-32e34",
+    "storage_bucket": "ubixstar-32e34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976167411925:android:20788443f548b95b1f425c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976167411925-3rmnt9270754pvmpive4efq1672dmgfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKpPzuBUkXuIH4bE_7F6a0Bdv5Ly8U38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976167411925-3rmnt9270754pvmpive4efq1672dmgfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
